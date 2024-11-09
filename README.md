@@ -519,7 +519,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/9a5b6222-23d9-46ed-8b46-52ada336a123)
 
 ***Exploration Question 3.2 Who are the top 5 most frequent artists based on the number of tracks in the dataset?  
-As observed in the plot above, the top 5 most frequent artists based on the number of tracks they produced include Bad Bunny, Taylor Swift, The Weeknd, SZA, and Kendrick Lamar.***
+As observed in the plot above, the top 5 most frequent artists based on the number of tracks they produced include "Bad Bunny", "Taylor Swift", "The Weeknd", "SZA", and "Kendrick Lamar".***
 
 The following counts the number of tracks released per year:
 ```python
@@ -604,7 +604,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/dd61e8ab-e303-4118-9eb1-9a44849250df)
 
 ***Exploration Question 5.1 Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?  
-Having correlation coefficients of -0.11, both danceability and speechiness have the highest influence on streams. However, this is an inversely proportional relationship due to the coefficIents being negative. Aside from these two, the other columns seems to not have much of an influence compared the two.***
+Having correlation coefficients of -0.11, both danceability and speechiness have the highest influence on streams. However, this is an inversely proportional relationship with streams due to the coefficIents being negative. Aside from these two, the other columns seems to not have much of an influence.***
 
 
 The following plots a heatmap of the columns *"danceability_%"*, *"valence_%"*, *"energy_%"*, and *"acousticness_%"*:
@@ -777,10 +777,10 @@ For both the spotify and apple playlist, it can be seen that The Weeknd appeared
 * Collaboration between artists is uncommon in producing tracks
 
 
-## References
-Spotify Dataset:  
-ELGIRIYEWITHANA, NIDULA. “Most Streamed Spotify Songs 2023.” Www.kaggle.com, www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023.  
+## References  
 
+- ELGIRIYEWITHANA, NIDULA. “Most Streamed Spotify Songs 2023.” Www.kaggle.com, www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023.  
+- “ChatGPT.” Chatgpt.com, 2024, chatgpt.com.  
 ## About Me
 Guillian R. Ramos  
 2ECE-D  
